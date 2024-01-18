@@ -1,17 +1,17 @@
-# Prework - prework_ios101
+# Prework - *prework_ios101*
 
-Submitted by: Yixin Zhao
+Submitted by: **Yixin Zhao**
 
-prework_ios101 is an app that change the background color randomly when user click the button "Change" 
+*prework_ios101* is an app that change the background color randomly when user click the button "Change" 
 
-Time spent: 0.3 hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [√] Users are see a screen with three labels and a button
-- [√] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 
 ## App Brainstorming (Step 4)
@@ -28,13 +28,13 @@ Snapchat
   - Unique 3D Avatar
   - Deleting old chat
 
-The app I would like to build 
+The app I would like to implement a dynamic comment function in tiktok. For example, some of the top comments would be played automatically as the shorts playing. Or users can comment at the certain time point, and the comments would fly through everytime when the short play to that time point. 
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [name of copyright owner]
+    Copyright [2023] [Yixin Zhao]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
