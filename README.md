@@ -13,6 +13,8 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
+## Video Walkthrough
+https://www.loom.com/share/8b98008a0ac44b758c2a9ba74668e03a?sid=a0900e0b-58dd-40da-b825-2d69c84c1bb0
 
 ## App Brainstorming (Step 4)
 
